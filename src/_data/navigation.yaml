@@ -1,10 +1,9 @@
----
 items:
-  - text: Menu One
+  - text: Trang 1
     url: "#"
-  - text: Menu Two
+  - text: Trang 2
     url: "#"
   - text: Menu Three
     url: "#"
-  - text: Blog
-    url: "/blog"
+  - text: Tin tức
+    url: /blog
